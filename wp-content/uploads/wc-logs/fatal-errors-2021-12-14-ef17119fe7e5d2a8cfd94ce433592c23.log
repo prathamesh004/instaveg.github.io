@@ -1,0 +1,60 @@
+2021-12-14T10:55:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php:42
+Stack trace:
+#0 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): MABEL_WCBB\Code\Controllers\Public_Controller->add_bar_to_footer('')
+#1 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\InstaVeg\wp-includes\general-template.php(3031): do_action('wp_footer')
+#4 C:\xampp\htdocs\InstaVeg\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#5 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\InstaVeg\wp-admin\admin.php(175): do_action('admin_init')
+#9 C:\xampp\htdocs\InstaVeg\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php on line 42
+
+2021-12-14T10:55:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php:42
+Stack trace:
+#0 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): MABEL_WCBB\Code\Controllers\Public_Controller->add_bar_to_footer('')
+#1 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\InstaVeg\wp-includes\general-template.php(3031): do_action('wp_footer')
+#4 C:\xampp\htdocs\InstaVeg\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#5 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\InstaVeg\wp-admin\admin.php(175): do_action('admin_init')
+#9 C:\xampp\htdocs\InstaVeg\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php on line 42
+
+2021-12-14T10:55:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php:42
+Stack trace:
+#0 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): MABEL_WCBB\Code\Controllers\Public_Controller->add_bar_to_footer('')
+#1 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\InstaVeg\wp-includes\general-template.php(3031): do_action('wp_footer')
+#4 C:\xampp\htdocs\InstaVeg\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#5 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\InstaVeg\wp-admin\admin.php(175): do_action('admin_init')
+#9 C:\xampp\htdocs\InstaVeg\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php on line 42
+
+2021-12-14T10:55:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php:42
+Stack trace:
+#0 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): MABEL_WCBB\Code\Controllers\Public_Controller->add_bar_to_footer('')
+#1 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\InstaVeg\wp-includes\general-template.php(3031): do_action('wp_footer')
+#4 C:\xampp\htdocs\InstaVeg\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#5 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 C:\xampp\htdocs\InstaVeg\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\InstaVeg\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\InstaVeg\wp-admin\admin.php(175): do_action('admin_init')
+#9 C:\xampp\htdocs\InstaVeg\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\InstaVeg\wp-content\plugins\woo-mobile-bottom-bar\code\controllers\class-public-controller.php on line 42
+
